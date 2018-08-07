@@ -11,3 +11,6 @@ Using the code above to allow a user to select the position they are applying fo
 
 ### Exercise
 Using the code above, allow the user to check a box if they agree all information in the form is correct.
+
+### Exercise
+Using the code above, create a submit button to allow the user to submit everything.
