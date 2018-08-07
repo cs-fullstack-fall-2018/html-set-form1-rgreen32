@@ -7,7 +7,7 @@ Create a table with first name label and input field in the first column of a ta
 Using the code above. Create a new column to the right to allow a user to select a new or existing application using radio buttons.
 
 ### Exercise 7
-Using the code above to allow a user to select the position they are applying for: Developer, Software Engineer, or Software Developer.
+Using the code above to allow a user to select the position they are applying for using a drop down: Developer, Software Engineer, or Software Developer.
 
 ### Exercise 8
 Using the code above, allow the user to check a box if they agree all information in the form is correct.
